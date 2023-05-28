@@ -1,0 +1,4 @@
+findspark
+pandas
+PyArrow
+sparkmeasure
